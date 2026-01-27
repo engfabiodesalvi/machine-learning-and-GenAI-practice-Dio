@@ -1,4 +1,4 @@
-### Repositórios com anotações e atividades
+### Repositório com anotações e atividades
 # Bootcamp Nexa - Machine Learning e GenAI na Prática
 
 IA é só pra quem programa? Não mais.
