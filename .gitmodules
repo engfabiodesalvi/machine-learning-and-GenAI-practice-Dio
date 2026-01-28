@@ -1,0 +1,3 @@
+[submodule "dio-lab-aws-sagemaker-canvas-estoque"]
+	path = dio-lab-aws-sagemaker-canvas-estoque
+	url = https://github.com/engfabiodesalvi/dio-lab-aws-sagemaker-canvas-estoque.git
